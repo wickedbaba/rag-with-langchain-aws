@@ -6,9 +6,9 @@ Point to the location of the datasource - codebase, pdf, etc. and ask questions 
 
 ### Index
 
-1. [Sign-in Page](#Sign-in Page)
-2. [Landing Page](#Landing Page)
-3. [Chat Bot](#Open Form Button )
+1. [Sign-in Page](##Sign-in Page)
+2. [Landing Page](##Landing Page)
+3. [Chat Bot](##Open Form Button)
 
 > Note - 
 This project was built during a hackahton. Therefore, it is not production ready. 
