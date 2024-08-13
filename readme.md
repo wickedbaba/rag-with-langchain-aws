@@ -6,9 +6,9 @@ Point to the location of the datasource - codebase, pdf, etc. and ask questions 
 
 ### Index
 
-1. [Sign-in Page](https://www.notion.so/RAG-using-AWS-Aurora-Langchain-and-Llama-3-2e96188ec2a84e08b44179aa23f2b843?pvs=21)
-2. [Landing Page](https://www.notion.so/RAG-using-AWS-Aurora-Langchain-and-Llama-3-2e96188ec2a84e08b44179aa23f2b843?pvs=21)
-3. [Chat Bot](https://www.notion.so/RAG-using-AWS-Aurora-Langchain-and-Llama-3-2e96188ec2a84e08b44179aa23f2b843?pvs=21)
+1. [Sign-in Page](#Sign-in Page)
+2. [Landing Page](#Landing Page)
+3. [Chat Bot](#Open Form Button )
 
 > Note - 
 This project was built during a hackahton. Therefore, it is not production ready. 
