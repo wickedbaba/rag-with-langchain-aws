@@ -36,7 +36,7 @@ You can use it for reference and build your own production ready solution.
         - Re-Sync - When data is changed at the source, a user can **re-sync** and **provide fresh context to LLM**.
         - Delete - **Delete** the **existing chat-bot** to free memory.
 
-- **Open Form** Button  ****-
+- **Open Form** Button -
     - Use it to give location to the new datasource for chat-bot to train on.
     
 
