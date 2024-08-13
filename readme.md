@@ -48,6 +48,6 @@ You can use it for reference and build your own production ready solution.
 
 Directly chat with your datasource - 
 
-[Chat Demo](misc_holder/chat_demo_gif.gif)
+![Demo Gif](misc_holder/chat_demo_gif.gif)
 
 ---
