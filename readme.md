@@ -19,7 +19,7 @@ You can use it for reference and build your own production ready solution.
 
 ## Sign-in Page
 
-![image.png](RAG%20using%20AWS%20Aurora,%20Langchain%20and%20Llama%203%202e96188ec2a84e08b44179aa23f2b843/image.png)
+![image.png](misc_holder/image.png)
 
 - Mandatory user sign-In for user tracking
 
@@ -27,7 +27,7 @@ You can use it for reference and build your own production ready solution.
 
 ## Landing Page
 
-![image.png](RAG%20using%20AWS%20Aurora,%20Langchain%20and%20Llama%203%202e96188ec2a84e08b44179aa23f2b843/image%201.png)
+![image.png](misc_holder/image%201.png)
 
 - **Repository Details** - holds access to all information about your current data source and RAG status.
     - Repo Name and branch - tells the **name and branch of repository** that is being given as **context to the LLM**.
@@ -40,7 +40,7 @@ You can use it for reference and build your own production ready solution.
     - Use it to give location to the new datasource for chat-bot to train on.
     
 
-![image.png](RAG%20using%20AWS%20Aurora,%20Langchain%20and%20Llama%203%202e96188ec2a84e08b44179aa23f2b843/image%202.png)
+![image.png](misc_holder/image%202.png)
 
 ---
 
@@ -48,6 +48,6 @@ You can use it for reference and build your own production ready solution.
 
 Directly chat with your datasource - 
 
-[chat_only_demo.mp4](RAG%20using%20AWS%20Aurora,%20Langchain%20and%20Llama%203%202e96188ec2a84e08b44179aa23f2b843/chat_only_demo.mp4)
+[chat_only_demo.mp4](misc_holder/chat_only_demo.mp4)
 
 ---
