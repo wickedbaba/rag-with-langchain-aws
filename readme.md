@@ -4,6 +4,10 @@
 
 Point to the location of the datasource - codebase, pdf, etc. and ask questions about it.
 
+# DEMO
+![Demo Gif](misc_holder/chat_demo_gif.gif)
+
+---
 ### Index
 
 1. Sign-in Page
